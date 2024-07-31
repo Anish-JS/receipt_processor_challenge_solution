@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.gitignore
+
+https://github.com/Anish-JS/receipt_processor_challenge_solution.git

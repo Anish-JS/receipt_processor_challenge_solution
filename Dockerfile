@@ -1,5 +1,5 @@
 FROM node:10-alpine
-RUN mkdir -p /home/node/app/node_modules && chown -R node:node /home/node/app
+RUN mkdir -p D:/Anish/Imp/fetch_backend_service/node_modules && chown -R node:node D:/Anish/Imp/fetch_backend_service
 
 WORKDIR /home/node/app
 COPY package*.json ./
