@@ -1,2 +1,2 @@
-Docker File is added for creating an image and running a container.
-Docker command is also added in the DockerFile.
+
+Docker File is added to create an image and run a container. Docker command has also been added to the DockerFile.
